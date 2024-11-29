@@ -1,2 +1,2 @@
-# prepcourse-carito
-esta en un repositorio de prueba nuevo
+esta es un prueba de como crear un repositorio
+
